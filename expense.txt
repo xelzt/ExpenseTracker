@@ -1,7 +1,1 @@
-Biedronka 100 Food 1010021
-Paliwo 200 Transport 21102021
-Trening 200 Bills 25102021
-Słodycze 20 Food 01102021
-Biedronka 15 Food 10.10.2021
-Biedronka 13.20 Food 10.10.2021
-Biedronka 12.69 Food 10.10.2021
+
