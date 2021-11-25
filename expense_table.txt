@@ -1,0 +1,5 @@
+Expense     ,     Price     ,     Category      ,     Date
+Biedronka   /     20.57     /     Food          /     03.11.2021
+Biedroneczka        /20.51               /Food                /03.11.2021          
+Obi                 /600                 /Food                /03.11.2021          
+Trening             /200                 /Other               /03.11.2021          
